@@ -1,0 +1,4 @@
+{
+    "command": "python test_db.py",
+    "working_directory": "/home/kavia/workspace/code-generation/mygov-citizen-engagement-games-platform-217305-217315/gaming_database"
+}

@@ -1,0 +1,4 @@
+# SQLite connection methods:
+# Python: sqlite3.connect('myapp.db')
+# Connection string: sqlite:////home/kavia/workspace/code-generation/mygov-citizen-engagement-games-platform-217305-217315/gaming_database/myapp.db
+# File path: /home/kavia/workspace/code-generation/mygov-citizen-engagement-games-platform-217305-217315/gaming_database/myapp.db
